@@ -7,5 +7,5 @@ import creacionales.factory_method.producto.Persona;
 public abstract class FabricadePersona {
     public abstract Persona crearPersona(PersonaNaturalDatos datos);
     public abstract Persona crearPersona(PersonaJuridicaDatos datos);
-
 }
+
